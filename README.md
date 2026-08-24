@@ -1,5 +1,3 @@
-<img width="1086" height="1448" alt="Image" src="https://github.com/user-attachments/assets/c940f767-a5d4-4ae0-b8f1-ee8f3be51eca" />
-
 # 💫 About Me:
 🔭 I’m currently working on Web Development <br><br>🌱 I’m currently learning Cloud Computing -AWS,GCP<br><br>👨‍💻 All of my projects are available at https://github.com/prathampanchmukh1234-maker<br><br>📫 How to reach me prathampanchmukh1234@gmail.com
 
